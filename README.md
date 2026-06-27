@@ -5,6 +5,8 @@
 - interested in mathematics, physics, astronomy, music, language, font... but only know a little
 - Brony
 - curious to everything
+- lazy
+- waste time on everything
 
 <!---
 InfinityLimit/InfinityLimit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
