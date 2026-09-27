@@ -10,10 +10,15 @@
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kyoku0618&show_icons=true&title_color_dark=CFADFF&text_color_dark=8C9FFF&border_color_dark=8D9FFF&bg_color_dark=45,000030,200020)
 
+<p align="center">
+  <img src="pictures/NoahChen_打碟_头像.png" alt="Artist: NoahChen" width="50%">
+  <img src="pictures/点点点横横横点点点 摸鱼页_音乐_头像.png" alt="Artist: NoahChen" width="50%">
+</p>
+
 <div align="center">
-  <img src="/pictures/去世机器_立绘_透明底.png" alt="Artist: 去世机器 (return -1)" width="400">
-  <img src="/pictures/点点点横横横点点点_摸鱼页_女仆登dua郎_端声学基础.png" alt="Artist: 点点点横横横点点点" width="400">
+  <img src="pictures/刺灲_现实小马.png" alt="Artist: 刺灲">
 </div>
+
 
 <!---
 InfinityLimit/InfinityLimit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
