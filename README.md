@@ -11,8 +11,9 @@
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kyoku0618&show_icons=true&title_color_dark=CFADFF&text_color_dark=8C9FFF&border_color_dark=8D9FFF&bg_color_dark=45,000030,200020)
 
 <p align="center">
-  <img src="pictures/NoahChen_打碟_头像.png" alt="Artist: NoahChen" width="50%">
-  <img src="pictures/点点点横横横点点点 摸鱼页_音乐_头像.png" alt="Artist: NoahChen" width="50%">
+  <img src="pictures/NoahChen_打碟_头像.png" alt="Artist: NoahChen" width="45%">
+  <img src="pictures/!透明画像1x1.png" alt="Artist: NoahChen" width="3%">
+  <img src="pictures/点点点横横横点点点 摸鱼页_音乐_头像.png" alt="Artist: NoahChen" width="45%">
 </p>
 
 <div align="center">
