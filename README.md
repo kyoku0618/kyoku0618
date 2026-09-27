@@ -12,7 +12,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoku0618)
 
-[双曲幻想](去世机器 立绘 透明底.png)
+<div align="center">
+  <img src="去世机器_立绘_透明底.png" alt="Artist: 去世机器 (return -1)" width="400">
+</div>
 
 <!---
 InfinityLimit/InfinityLimit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
