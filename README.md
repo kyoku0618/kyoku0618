@@ -1,11 +1,10 @@
 - kyoku0618 (kyoku)
 - 中文/English/日本語 (know little)
-- A pegasus mare (?)
+- Brony, A pegasus mare (?)
 - Senior in NJU, major in Acoustics
-- Brony
 - Curious to everything (maybe), especially in mathematics, physics, music... but only know a little
 - Lazy
-- Waste time on everything
+- Waste time on everything that nobody cares
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kyoku0618&title_color_dark=CFADFF&text_color_dark=8C9FFF&border_color_dark=8D9FFF&bg_color_dark=-45,000030,200020)
 
