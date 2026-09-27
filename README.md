@@ -1,4 +1,4 @@
-- Infinity Limit
+- kyoku0618 (kyoku)
 - 中文/English/日本語 (know little)
 - a pegasus mare (?)
 - senior in NJU
@@ -8,9 +8,11 @@
 - lazy
 - waste time on everything
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityLimit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoku0618)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLimit)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoku0618)
+
+[双曲幻想](去世机器 立绘 透明底.png)
 
 <!---
 InfinityLimit/InfinityLimit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
